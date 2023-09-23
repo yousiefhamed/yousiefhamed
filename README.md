@@ -5,7 +5,7 @@ I'm a passionate React.js Frontend Developer, dedicated to crafting delightful a
 ## 🛠️ Skills
 
 I'm proficient in a variety of frontend technologies, including:
-<div style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block;">
+<div>
   <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <img height=40 src="https://www.jennerstrand.se/wp-content/uploads/2023/06/CSS3_logo_and_wordmark.svg_.png" />
   <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
