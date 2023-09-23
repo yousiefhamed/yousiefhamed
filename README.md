@@ -5,7 +5,7 @@ I'm a passionate React.js Frontend Developer, dedicated to crafting delightful a
 ## 🛠️ Skills
 
 I'm proficient in a variety of frontend technologies, including:
-<p>
+<div style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block;">
   <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <img height=40 src="https://www.jennerstrand.se/wp-content/uploads/2023/06/CSS3_logo_and_wordmark.svg_.png" />
   <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
@@ -17,7 +17,7 @@ I'm proficient in a variety of frontend technologies, including:
   <img height=40 src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" />
   <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" />
   <img height=40 src="https://msdynamicsnavashwinitripathi.files.wordpress.com/2021/01/docker_logo.png" />
-</p>
+</div>
 
 ## 🌱 Currently Learning
 
