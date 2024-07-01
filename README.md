@@ -1,5 +1,5 @@
 <div align=center>
-  <div style="display: flex; justify-content: center; align-items: end; width: 100%; max-height: 300px; overflow: hidden">
+  <div style="display: flex; justify-content: center; align-items: end; width: 100%; max-height: 200px; overflow: hidden">
       <img src="./assets/coding-background-gif.gif" style="width: 100%" />
   </div>
   <a href="https://youssef-hamed.vercel.app" target="_blank">
