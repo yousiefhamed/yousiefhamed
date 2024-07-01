@@ -66,7 +66,7 @@
 
 <br />
 
-## <span align="center" style="display: block">🤝 Let's Connect</span>
+<h2 style="width: 100%"><span align="center" style="display: block">🤝 Let's Connect</span></h2>
 
 <p align=center style="max-width: 800px; margin: 0 auto">I'm always excited to collaborate on innovative projects and explore new opportunities. Let's connect and discuss how we can work together to create something amazing! Reach out to me on any social media channel:</p>
 
