@@ -4,7 +4,7 @@
   </div>
   <a href="https://youssef-hamed.vercel.app" target="_blank">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=21&pause=300&color=3479DC&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=300&lines=I'm+Youssef+Hamed;Computer+Engineering+Graduate;Expert+Frontend+Dev;----------;Passionate+Nextjs+%26+Reactjs+Developer;----------;Dedicated+to+crafting;delightful+%26+responsive+web+experiences;----------;On+my+way+to+become+a+MERN+stack+Dev" alt="Youssef Hamed - Nextjs & Reactjs Frontend Dev" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&weight=600&size=21&pause=300&color=3479DC&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=300&lines=I'm+Youssef+Hamed;Computer+Engineering+Graduate;Expert+Frontend+Dev;----------;Passionate+Nextjs+%26+Reactjs+Developer;----------;Dedicated+to+crafting;delightful+%26+responsive+web+experiences;----------;On+my+way+to+become+a+MERN+stack+Dev" alt="Youssef Hamed - Nextjs & Reactjs Frontend Dev" 
     />
   </a>
 </div>
@@ -17,6 +17,8 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousiefhamed&layout=pie&theme=transparent" />
   </a>
 </div>
+
+<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 <br />
 <br />
