@@ -1,7 +1,4 @@
 <div align=center>
-  <div style="display: flex; justify-content: center; align-items: end; width: 100%; max-height: 200px; overflow: hidden">
-      <img src="./assets/coding-background-gif.gif" style="width: 100%" />
-  </div>
   <a href="https://youssef-hamed.vercel.app" target="_blank">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&weight=600&size=21&pause=300&color=3479DC&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=300&lines=I'm+Youssef+Hamed;Computer+Engineering+Graduate;Expert+Frontend+Dev;----------;Passionate+Nextjs+%26+Reactjs+Developer;----------;Dedicated+to+crafting;delightful+%26+responsive+web+experiences;----------;On+my+way+to+become+a+MERN+stack+Dev" alt="Youssef Hamed - Nextjs & Reactjs Frontend Dev" 
