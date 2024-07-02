@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
+<div align=center style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
   <a href="#">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yousiefhamed&show_icons=true&theme=transparent&rank_icon=github" />
   </a>
@@ -20,10 +20,10 @@
 <br />
 <br />
 
-## <span align="center" style="display: block">🛠️ TECH STACKS</span>
+<h2 align="center">🛠️ TECH STACKS</h2>
 
 <!--Languages and Tools Section-->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center">
+<div align=center style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center">
   <figure style="max-width: 500px">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
@@ -56,9 +56,9 @@
 <br />
 <br />
 
-## <span align="center" style="display: block">💻 My Projects</span>
+<h2 align="center">💻 My Projects</h2>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
+<div align=center style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
   <a href="https://github.com/yousiefhamed/foodify">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=foodify&theme=transparent" />
   </a>
@@ -78,13 +78,13 @@
 
 <br />
 
-<h2 style="width: 100%"><span align="center" style="margin: 0 auto; display: block">🤝 Let's Connect</span></h2>
+<h2 align=center>🤝 Let's Connect</h2>
 
 <p align=center style="max-width: 800px; margin: 0 auto">I'm always excited to collaborate on innovative projects and explore new opportunities. Let's connect and discuss how we can work together to create something amazing! Reach out to me on any social media channel:</p>
 
 <br />
 
-<div style="max-width: 330px; margin: 0 auto; display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
+<div align=center style="max-width: 330px; margin: 0 auto; display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
   <a href="https://linkedin.com/in/youssef-hamed-helmy" target="_blank">
     <img src="./assets/linkedin.png" width=50 />
   </a>
