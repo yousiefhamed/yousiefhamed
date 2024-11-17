@@ -48,8 +48,9 @@
   <h2 align="center">🪪 About Me</h2>
     I'm a passionate Full Stack Developer focused on building high-performance web applications. With expertise in modern JavaScript frameworks and cloud technologies, I love turning complex problems into elegant solutions.
     <br />
-    
+    <br />
     - 🔭 Currently working on exciting projects using React, Node.js, and cloud services.
+    <br />
     - 🌱 Continuously learning and growing my skillset.
 </div>
 
