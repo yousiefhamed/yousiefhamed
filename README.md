@@ -44,13 +44,14 @@
   </a>
 </div>
 
-<div align="left">
-  <h2 align="center">🪪 About Me</h2>
+<div align="center">
+  <h2>🪪 About Me</h2>
     I'm a passionate Full Stack Developer focused on building high-performance web applications. With expertise in modern JavaScript frameworks and cloud technologies, I love turning complex problems into elegant solutions.
     <br />
-    - 🔭 Currently working on exciting projects using React, Node.js, and cloud services.
     <br />
-    - 🌱 Continuously learning and growing my skillset.
+    🔭 Currently working on exciting projects using React, Node.js, and cloud services.
+    <br />
+    🌱 Continuously learning and growing my skillset.
 </div>
 
 <div align="center">
