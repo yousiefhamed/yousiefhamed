@@ -126,28 +126,6 @@
 </div>
 
 <div align="center">
-  <h2>💻 My Projects</h2>
-</div>
-
-<div align=center>
-  <a href="https://github.com/yousiefhamed/youssef-hamed-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=youssef-hamed-portfolio&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/elomar-travel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=elomar-travel&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/bookingo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=bookingo&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/foodify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=foodify&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/blogity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=blogity&theme=transparent" />
-  </a>
-</div>
-
-<div align="center">
   <h2>🤝 Let's Connect</h2>
 </div>
 
