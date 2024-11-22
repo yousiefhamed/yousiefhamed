@@ -25,8 +25,8 @@
 
 ---
 
-<div align="center">
-  <a href="https://youssef-hamed.vercel.app" target="_blank">
+<div align="center" style="max-height: 270px;overflow: hidden;">
+  <a href="https://youssef-hamed.vercel.app" target="_blank" style="display: inline-block">
     <picture>
       <source
         srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&weight=600&size=20&pause=300&color=eaecff&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=300&lines=I'm+Youssef+Hamed;Full+Stack+Developer;specialized+in+Front-end;----------;Passionate+about+building;scalable+%26+innovative+solutions;----------;Specialized+in;Modern+Web+Technologies"
